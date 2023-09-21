@@ -1,7 +1,4 @@
-
-<svg width="845px" height="auto" xmlns="http://www.w3.org/2000/svg">
-  <use xlink:href="./assets/images/github.svg"></use>
-</svg>
+![GitHub](./assets/images/github.svg)
 
 <!---
 <dl>
