@@ -1,16 +1,25 @@
 <div align='center'>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.png">
-  <img src="light.png" alt="Hello there!" />
+<source media="(prefers-color-scheme: dark)" srcset="images/hello_dark.png">
+<img src="images/hello_light.png" alt="Hello there!" />
 </picture>
+
+<div style="max-width: 500px; padding: 25px 10px 5px 10px; border-top: 0.5px solid #ccc;">
 
 <a href="mailto:jaroslawkucharski91@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/jaros%C5%82aw-kucharski/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 <a href="https://www.npmjs.com/~jaroslawkucharski">![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)</a>
 <a href="https://www.discogs.com/user/Deathbassist/collection?header=1&sort=artist&sort_order=asc">![Discogs](https://img.shields.io/badge/Discogs-333333.svg?style=for-the-badge&logo=Discogs&logoColor=white)</a>
 
-##
+</div>
+
+<div style="max-width: 600px; padding: 0 10px 5px 10px; border-top: 0.5px solid #ccc;">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="images/skills_dark.png">
+<img src="images/skills_light.png" alt="Hello there!" />
+</picture>
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -59,11 +68,17 @@
 ![](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe-After-Effects&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white)
 
-##
+</div>
+
+<div style="max-width: 600px; border-top: 0.5px solid #ccc;">
 
 <a href="https://github.com/iamfront-dev">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="iamfront_dev_dark.png">
-    <img src="iamfront_dev_light.png" alt="iamfront.dev" />
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="images/iamfront_dev_dark.png">
+<img src="images/iamfront_dev_light.png" alt="iamfront.dev" />
+</picture>
 </a>
+
+</div>
+
+<div style="max-width: 500px; border-top: 0.5px solid #ccc;" />
