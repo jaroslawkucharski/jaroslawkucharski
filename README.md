@@ -1,13 +1,16 @@
 <div align='center'>
 
-# <img src="hello.png" alt="Hello there!" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.png">
+  <img src="light.png" alt="Hello there!" />
+</picture>
 
 <a href="mailto:jaroslawkucharski91@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/jaros%C5%82aw-kucharski/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 <a href="https://www.npmjs.com/~jaroslawkucharski">![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)</a>
 <a href="https://www.discogs.com/user/Deathbassist/collection?header=1&sort=artist&sort_order=asc">![Discogs](https://img.shields.io/badge/Discogs-333333.svg?style=for-the-badge&logo=Discogs&logoColor=white)</a>
 
-## <img src="skills.png" alt="Skills" />
+##
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -56,13 +59,11 @@
 ![](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe-After-Effects&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white)
 
-## <img src="stats.png" alt="Stats" />
+##
 
-<!--
-![](https://api.githubtrends.io/user/svg/jaroslawkucharski/langs?time_range=one_year&use_percent=True&theme=dark)
-![](https://api.githubtrends.io/user/svg/jaroslawkucharski/repos?time_range=one_year&theme=dark)
--->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaroslawkucharski&layout=compact)
-
-<a href="https://github.com/iamfront-dev">iamfront.dev</a>
+<a href="https://github.com/iamfront-dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="iamfront_dev_dark.png">
+    <img src="iamfront_dev_light.png" alt="iamfront.dev" />
+  </picture>
+</a>
