@@ -1,86 +1,61 @@
-<div align='center'>
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/hello_dark.png">
   <img src="images/hello_light.png" alt="Hello there!" />
 </picture>
 
+### Senior Front-end Developer
+
+I build accessible, maintainable interfaces for SaaS products. I care about the
+details that make software clear: good information architecture, reliable
+states, useful feedback and code that is easy to evolve.
+
 <a href="mailto:jaroslawkucharski91@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/jaros%C5%82aw-kucharski/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
-<a href="https://www.npmjs.com/~jaroslawkucharski">![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/jaros%C5%82aw-kucharski/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaros%C5%82aw-kucharski/)</a>
 <a href="https://www.discogs.com/user/Deathbassist/collection">![Discogs](https://img.shields.io/badge/Discogs-333333.svg?style=for-the-badge&logo=Discogs&logoColor=white)</a>
 
-#
+<br />
+<br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/skills_dark.png">
-  <img src="images/skills_light.png" alt="Hello there!" />
-</picture>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 
-![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
-![](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![](https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=Astro&logoColor=white)
-![](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+</div>
 
-![](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)
-![](https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black)
-![](https://img.shields.io/badge/Babel-F9DC3E.svg?style=for-the-badge&logo=Babel&logoColor=black)
+## What I do
 
-![](https://img.shields.io/badge/rollup.js-EC4A3F.svg?style=for-the-badge&logo=rollupdotjs&logoColor=white)
-![](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
-![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+- Build and evolve production React applications with TypeScript.
+- Turn product requirements and designs into responsive, usable interfaces.
+- Integrate APIs, model complex UI state and handle loading, empty and error states.
+- Improve frontend architecture, performance, accessibility and developer experience.
+- Write automated tests with Vitest and React Testing Library.
+- Work closely with product, design and backend teams from idea to release.
 
-![](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
-![](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
-![](https://img.shields.io/badge/ReduxSaga-999999.svg?style=for-the-badge&logo=Redux-Saga&logoColor=white)
-![](https://img.shields.io/badge/SWR-000000.svg?style=for-the-badge&logo=SWR&logoColor=white)
-![](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white)
+## Selected work
 
-![](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
-![](https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white)
-![](https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=Prettier&logoColor=black)
-![](https://img.shields.io/badge/i18next-26A69A.svg?style=for-the-badge&logo=i18next&logoColor=white)
+- **Core platform and frontend architecture** — developed the Landingi platform,
+  moving key areas from a legacy PHP/React application to a new React SPA. Worked
+  with React, TypeScript, React Router, Redux, Sass, SWR, Axios and REST APIs.
+- **EventTracker — landing page behaviour analytics** — developed tooling for
+  analysing user behaviour, including Event Map, Scroll Map and active-time
+  measurement. Used TypeScript, Vite, Browser/DOM APIs, REST APIs and Vitest.
+- **Solis — AI agent for landing page optimisation** — built the chat interface
+  and insight views with React, TypeScript, Node.js, Express and Vercel AI SDK,
+  including streamed responses and conversation history.
 
-![](https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white)
-![](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
-![](https://img.shields.io/badge/Testing%20Library-E33332.svg?style=for-the-badge&logo=Testing-Library&logoColor=white)
-![](https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white)
+## Beyond code
 
-![](https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=Playwright&logoColor=white)
-![](https://img.shields.io/badge/Codecov-F01F7A.svg?style=for-the-badge&logo=Codecov&logoColor=white)
-![](https://img.shields.io/badge/Sentry-362D59.svg?style=for-the-badge&logo=Sentry&logoColor=white)
-![](https://img.shields.io/badge/Storybook-FF4785.svg?style=for-the-badge&logo=Storybook&logoColor=white)
+I hold a bachelor's degree in Graphic Design, specialising in Multimedia, from
+the University of Information Technology in Katowice.
 
-![](https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white)
-![](https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=Expo&logoColor=white)
-![](https://img.shields.io/badge/Capacitor-119EFF.svg?style=for-the-badge&logo=Capacitor&logoColor=white)
-![](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
+I am also a bass player in [Velesar](https://velesar.pl/).
 
-![](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)
-![](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
-![](https://img.shields.io/badge/Jira%20Software-0052CC.svg?style=for-the-badge&logo=Jira-Software&logoColor=white)
-![](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
-
-![](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
-
-![](https://img.shields.io/badge/Adobe%20InDesign-FF3366.svg?style=for-the-badge&logo=Adobe-InDesign&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe-After-Effects&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white)
-
-#
-
-<a href="https://github.com/iamfront-dev">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/iamfront_dev_dark.png">
-    <img src="images/iamfront_dev_light.png" alt="iamfront.dev" />
-  </picture>
-</a>
