@@ -5,57 +5,52 @@
   <img src="images/hello_light.png" alt="Hello there!" />
 </picture>
 
-### Senior Front-end Developer
+SENIOR <strong>FRONTEND DEVELOPER</strong>
 
-I build accessible, maintainable interfaces for SaaS products. I care about the
-details that make software clear: good information architecture, reliable
-states, useful feedback and code that is easy to evolve.
+<p>Senior Frontend Developer with over 7 years of commercial experience in building and scaling web applications using React, TypeScript, and Next.js. Over the years, I developed Landingi, a global SaaS platform handling millions of visits for major brands such as Biedronka, PayU, and Bonduelle. Currently, I am developing the AleRabat platform (React) and digital services for TAURON (Sitecore / JavaScript).</p>
+<p>I own the full feature lifecycle—from web application architecture design and REST API integration to performance optimization, code review, and final system deployment and maintenance. Working closely with product and backend teams, I effectively leverage AI tools (Claude Code, GitHub Copilot) to automate tasks and drive up code quality.</p>
 
-<a href="mailto:jaroslawkucharski91@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/jaros%C5%82aw-kucharski/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaros%C5%82aw-kucharski/)</a>
-<a href="https://www.discogs.com/user/Deathbassist/collection">![Discogs](https://img.shields.io/badge/Discogs-333333.svg?style=for-the-badge&logo=Discogs&logoColor=white)</a>
+[Gmail](mailto:jaroslawkucharski91@gmail.com) &bull; 
+[LinkedIn](https://www.linkedin.com/in/jaros%C5%82aw-kucharski/) &bull; 
+[Discogs](https://www.discogs.com/user/Deathbassist/collection) &bull; 
+[Velesar](https://velesar.pl/)
 
 <br />
 <br />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+TECH<strong>STACK</strong>
 
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Next JS](https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+
+<!--
+![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+-->
+
+![Testing-Library](https://img.shields.io/badge/TestingLibrary-%23E33332.svg?style=for-the-badge&logo=testing-library&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-%23252529.svg?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+
+<br />
+<br />
+
+WHAT I <strong>DO?</strong>
+
+&bull; Build and evolve production React applications with TypeScript &bull;
+<br />
+&bull; Turn product requirements and designs into responsive, usable interfaces &bull;
+<br />
+&bull; Integrate APIs, model complex UI state and handle loading, empty and error states &bull;
+<br />
+&bull; Improve frontend architecture, performance, accessibility and developer experience &bull;
+<br />
+&bull; Write automated tests with Vitest and React Testing Library &bull;
+<br />
+&bull; Work closely with product, design and backend teams from idea to release &bull;
 
 </div>
-
-## What I do
-
-- Build and evolve production React applications with TypeScript.
-- Turn product requirements and designs into responsive, usable interfaces.
-- Integrate APIs, model complex UI state and handle loading, empty and error states.
-- Improve frontend architecture, performance, accessibility and developer experience.
-- Write automated tests with Vitest and React Testing Library.
-- Work closely with product, design and backend teams from idea to release.
-
-## Selected work
-
-- **Core platform and frontend architecture** — developed the Landingi platform,
-  moving key areas from a legacy PHP/React application to a new React SPA. Worked
-  with React, TypeScript, React Router, Redux, Sass, SWR, Axios and REST APIs.
-- **EventTracker — landing page behaviour analytics** — developed tooling for
-  analysing user behaviour, including Event Map, Scroll Map and active-time
-  measurement. Used TypeScript, Vite, Browser/DOM APIs, REST APIs and Vitest.
-- **Solis — AI agent for landing page optimisation** — built the chat interface
-  and insight views with React, TypeScript, Node.js, Express and Vercel AI SDK,
-  including streamed responses and conversation history.
-
-## Beyond code
-
-I hold a bachelor's degree in Graphic Design, specialising in Multimedia, from
-the University of Information Technology in Katowice.
-
-I am also a bass player in [Velesar](https://velesar.pl/).
 
