@@ -1,6 +1,13 @@
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/iamfront_dev_dark.png">
+  <img src="images/iamfront_dev_dark.png" alt="iamfront.dev" />
+</picture>
+
+<br />
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/hello_dark.png">
   <img src="images/hello_light.png" alt="Hello there!" />
 </picture>
@@ -18,7 +25,10 @@ SENIOR <strong>FRONTEND DEVELOPER</strong>
 <br />
 <br />
 
-TECH<strong>STACK</strong>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/skills_dark.png">
+  <img src="images/skills_light.png" alt="Skills" />
+</picture>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,19 +48,12 @@ TECH<strong>STACK</strong>
 <br />
 <br />
 
-WHAT I <strong>DO?</strong>
-
-&bull; Build and evolve production React applications with TypeScript &bull;
-<br />
-&bull; Turn product requirements and designs into responsive, usable interfaces &bull;
-<br />
-&bull; Integrate APIs, model complex UI state and handle loading, empty and error states &bull;
-<br />
-&bull; Improve frontend architecture, performance, accessibility and developer experience &bull;
-<br />
-&bull; Write automated tests with Vitest and React Testing Library &bull;
-<br />
-&bull; Work closely with product, design and backend teams from idea to release &bull;
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/what_i_do_dark.png">
+  <img src="images/what_i_do_light.png" alt="What I do?" />
+</picture>
+-->
 
 </div>
 
