@@ -1,8 +1,10 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/iamfront_dev_dark.png">
-  <img src="images/iamfront_dev_dark.png" alt="iamfront.dev" />
+  <a href="https://iamfront.dev" target="_blank">
+    <source media="(prefers-color-scheme: dark)" srcset="images/iamfront_dev_dark.png">
+    <img src="images/iamfront_dev_dark.png" alt="iamfront.dev" />
+  </a>
 </picture>
 
 <br />
@@ -14,13 +16,13 @@
 
 SENIOR <strong>FRONTEND DEVELOPER</strong>
 
-<p>Senior Frontend Developer with over 7 years of commercial experience in building and scaling web applications using React, TypeScript, and Next.js. Over the years, I developed Landingi, a global SaaS platform handling millions of visits for major brands such as Biedronka, PayU, and Bonduelle. Currently, I am developing the AleRabat platform (React) and digital services for TAURON (Sitecore / JavaScript).</p>
-<p>I own the full feature lifecycle—from web application architecture design and REST API integration to performance optimization, code review, and final system deployment and maintenance. Working closely with product and backend teams, I effectively leverage AI tools (Claude Code, GitHub Copilot) to automate tasks and drive up code quality.</p>
+<p>Senior Frontend Developer with 6+ years of commercial experience. I build web applications with React, TypeScript and Next.js. In recent years I helped develop and scale Landingi – a global SaaS platform used by thousands of customers in more than 80 countries (including Biedronka, PayU and Bonduelle) and handling millions of visits a month.</p>
 
-[Gmail](mailto:jaroslawkucharski91@gmail.com) &bull; 
-[LinkedIn](https://www.linkedin.com/in/jaros%C5%82aw-kucharski/) &bull; 
-[Discogs](https://www.discogs.com/user/Deathbassist/collection) &bull; 
-[Velesar](https://velesar.pl/)
+<p>I deliver features end to end – from implementation and testing to deployment and maintenance. I work on frontend architecture, performance and code reviews, closely with product and backend teams. I currently develop the AleRabat platform in React and TAURON websites built on Sitecore, and use AI tools such as Claude Code, Codex and GitHub Copilot day to day.</p>
+
+[Email](mailto:jaroslaw.kucharski@iamfront.dev) &bull; 
+[Portfolio](https://iamfront.dev) &bull; 
+[LinkedIn](https://www.linkedin.com/in/jaros%C5%82aw-kucharski/)
 
 <br />
 <br />
